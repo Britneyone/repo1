@@ -1,0 +1,6 @@
+spring:
+  data:
+    elasticsearch:
+      cluster-name: my-application
+      cluster-nodes: 192.168.5.130:9300
+
